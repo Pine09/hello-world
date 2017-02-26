@@ -1,2 +1,4 @@
 # hello-world
-first repository
+
+Hello!
+This is first repository for testing purpose
